@@ -38,5 +38,4 @@ PERSONA = {
 }
 
 # how most sessions start at each hour 
-HOUR_START = np.array([1, 0.5, .3, .2, .2, .3, 1, 2, 3, 2, 2, 2, 2, 2, 2, 2, 3, 4, 3, 2, 1.5, 1.5, 1.5, 1.5]
-                      dtype=float)
+HOUR_START = np.array([1, 0.5, .3, .2, .2, .3, 1, 2, 3, 2, 2, 2, 2, 2, 2, 2, 3, 4, 3, 2, 1.5, 1.5, 1.5, 1.5],dtype=float)
